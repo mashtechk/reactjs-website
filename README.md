@@ -1,28 +1,3 @@
-<div align="center">
-  <a href="https://reactjs.org.ph/">
-    <img
-      width="800"
-      alt="ReactJS Philippines"
-      src="https://raw.githubusercontent.com/reactph/reactjsph-website/master/static/meta-image-cover.jpg"
-    />
-  </a>
-    <p>We are a group of Filipino developers dedicated to nation-building through our community and shared enthusiasm for React and for excellence overall.</p>
-</div>
-
----
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cd5d6330-1628-4d0e-aac1-84f8cf4b7863/deploy-status)](https://app.netlify.com/sites/reactjs-ph-website/deploys)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub issues](https://img.shields.io/github/issues/reactph/reactjsph-website)](https://github.com/reactph/reactjsph-website/issues)
-[![GitHub license](https://img.shields.io/github/license/reactph/reactjsph-website)](https://github.com/reactph/reactjsph-website/blob/master/LICENSE)
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg)](https://github.com/reactph/reactjsph-website/blob/master/CODE_OF_CONDUCT.md)
-
-[![Facebook Group](https://img.shields.io/badge/join_the_community-on_facebook-1877F2?logo=facebook)][facebook-group]
-[![Discord](https://img.shields.io/badge/join_the_community-on_discord-7289DA?logo=discord)][discord]
-
----
-
 ## 🚀 Quick start
 
 1.  **Fork and clone this repo**
@@ -73,20 +48,10 @@ More for information about how you can contribute to this project, check our [co
 3. Open a pull request with the title `[DEV BOARD] {YOUR_NAME}` using the template below:
 
   ```
-  I have read and verified the following upon opening this pull request to add my information to the ReactJS Philippines Dev Board:
+  I have read and verified the following upon opening this pull request to add my information to the ReactJS Dev Board:
 
   - [ ] My `avatar` is a square image
   - [ ] My `avatar` is below 80 kB
   - [ ] My `blurb` is no longer than 140 characters
   - [ ] I understand that only the first 5 `skills` I list will be shown on the site
   ```
-
-## 🎉 Join the community
-
-- [Facebook Group][facebook-group]
-- [Discord][discord]
-- [Meetup][meetup]
-
-[facebook-group]: https://web.facebook.com/groups/875676539148789/
-[discord]: https://discord.gg/J6eZNUG
-[meetup]: https://www.meetup.com/ReactJS-Philippines/
